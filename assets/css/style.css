@@ -23,7 +23,7 @@ body {
     background-color: #d9dcd6;
 }
 
-h1{
+header{
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -31,11 +31,11 @@ h1{
 }
 
 
-h1 #head em {
+header #head em {
     color: #d9dcd6;
 }
 
-h1 nav {
+header #a3 {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,11 +43,11 @@ h1 nav {
     font-size: 20px;
 }
 
-h1 nav ul {
+header #a3 ul {
     list-style-type: none;
 }
 
-h1 nav ul li {
+header #a3 ul li {
     display: inline-block;
     margin-left: 25px;
 }
