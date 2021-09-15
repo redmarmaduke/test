@@ -35,7 +35,7 @@ header #head em {
     color: #d9dcd6;
 }
 
-header #a3 {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,11 +43,11 @@ header #a3 {
     font-size: 20px;
 }
 
-header #a3 ul {
+header nav ul {
     list-style-type: none;
 }
 
-header #a3 ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
