@@ -31,5 +31,5 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 
-![WorkingSite](.\assets\images\workingsite.jpg)
+![WorkingSite](assets\images\workingsite.jpg)
 
