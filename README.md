@@ -1,14 +1,35 @@
 # site-accessibility-refractor
 
-First homework assignment
+# Project Title
+
+Site-Accessibility-Refractor
 
 
-Refractor the web page and improved accesibility by replacing the non-semantic elements with semantic html.
+## Built With
 
-Improved the site navigation and accesibility by allowing the links within the header to work properly.
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-Improved accesibility by adding descriptive alternate tags to images.
+## Deployed Link
 
-Clean up css and re-ordered it so the page displays more imperative and immediately visible information first.
+* [See Live Site](https://divinemayura.github.io/site-accessibility-refractor/)
 
-Add descriptive title for improved accesibility.
+
+## Authors
+
+* **May Faucher** 
+
+- [Link to Portfolio Site](https://divinemayura.github.io/)
+- [Link to Github](https://github.com/DivineMayura)
+- [Link to LinkedIn](www.linkedin.com/in/mayfaucher)
+
+
+## License
+
+This project is licensed under the MIT License 
+
+## Acknowledgments
+
+
+![WorkingSite](./assets\images\workingsite.jpg)
+
